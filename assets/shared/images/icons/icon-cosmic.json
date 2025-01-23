@@ -1,0 +1,43 @@
+{ "frames": {
+   "icon idle0000": {
+    "frame": { "x": 0, "y": 0, "w": 150, "h": 150 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 150 },
+    "sourceSize": { "w": 150, "h": 150 },
+    "duration": 600
+   },
+   "icon idle0001": {
+    "frame": { "x": 150, "y": 0, "w": 150, "h": 150 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 150 },
+    "sourceSize": { "w": 150, "h": 150 },
+    "duration": 600
+   },
+   "icon idle0002": {
+    "frame": { "x": 300, "y": 0, "w": 150, "h": 150 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 150 },
+    "sourceSize": { "w": 150, "h": 150 },
+    "duration": 600
+   },
+   "icon idle0003": {
+    "frame": { "x": 450, "y": 0, "w": 150, "h": 150 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 150 },
+    "sourceSize": { "w": 150, "h": 150 },
+    "duration": 600
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.7-x64",
+  "image": "icon-cosmic.png",
+  "format": "RGBA8888",
+  "size": { "w": 600, "h": 150 },
+  "scale": "1"
+ }
+}
