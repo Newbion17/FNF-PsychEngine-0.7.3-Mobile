@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-cosmicbf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="icon-cosmicbf0000" x="0" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0001" x="0" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0002" x="0" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0003" x="0" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0004" x="0" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0005" x="0" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0006" x="151" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0007" x="151" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0008" x="151" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0009" x="151" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0010" x="151" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0011" x="151" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0012" x="302" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0013" x="302" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0014" x="302" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0015" x="302" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0016" x="302" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0017" x="302" y="0" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0018" x="0" y="150" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0019" x="0" y="150" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0020" x="0" y="150" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0021" x="0" y="150" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0022" x="0" y="150" width="151" height="150"/>
+	<SubTexture name="icon-cosmicbf0023" x="0" y="150" width="151" height="150"/>
+</TextureAtlas>
