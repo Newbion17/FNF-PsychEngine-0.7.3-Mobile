@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-228
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfcosmicevil_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-320
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfcosmicevil_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-198
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfcosmicevil_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-223
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bfcosmicevil_right"
+		},
+		{
+			"offsets": [
+				-61,
+				-245
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bfcosmicevil_left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/cosmic-bf-evil-assets",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "cosmic",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		0,
+		62
+	],
+	"camera_position": [
+		-10,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

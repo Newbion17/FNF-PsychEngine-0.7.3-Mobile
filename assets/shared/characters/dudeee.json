@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				32,
-				56
+				41,
+				57
 			],
 			"anim": "singLEFT",
 			"fps": 24,
